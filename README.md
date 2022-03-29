@@ -12,7 +12,9 @@
 ![](https://img.shields.io/badge/Libs-Sklearn-informational?style=plastic&logo=scikit-learn&logoColor=white&color=18548c)
 ![](https://img.shields.io/badge/Libs-Pytorch-informational?style=plastic&logo=pytorch&logoColor=white&color=18548c)
 
-I'm Pablo Villegas, a Spanish enthusiastic about data. I have finished recently a data scientist bootcamp. If you want to know more about me, you can gossip my <a href="https://www.linkedin.com/in/pablo-villegas-martin/"><img height="20" src="https://github.com/pvillegasmartin/pvillegasmartin/blob/main/linkedin.svg"></a>.
+I'm Pablo Villegas, a Spanish enthusiastic about data. I have finished recently a data scientist bootcamp.
+
+If you want to know more about me, you can gossip my <a href="https://www.linkedin.com/in/pablo-villegas-martin/"><img height="20" src="https://github.com/pvillegasmartin/pvillegasmartin/blob/main/linkedin.svg"></a>.
 
 - ₿ I’m currently working on a cryptocurrencies project.
 
@@ -21,10 +23,10 @@ I'm Pablo Villegas, a Spanish enthusiastic about data. I have finished recently 
 ## &#x1f4c8; GitHub Stats
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvillegasmartin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvillegasmartin&hide=C&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2" />
 </a>
-<a href="https://github.com/pvillegasmartin/cryptocurrencies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pvillegasmartin&repo=cryptocurrencies&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/pvillegasmartin/cryptocurrencies" style="height:100%">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=pvillegasmartin&repo=cryptocurrencies&description='Crypto'&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--
 **pvillegasmartin/pvillegasmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
